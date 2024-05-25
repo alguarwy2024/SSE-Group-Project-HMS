@@ -1,1 +1,22 @@
 
+User guide on how to install the system
+dowload and install XAMPP or WAMP server
+Unzip the folder
+put the folder in your htdocost folder
+open localhost 
+click on PHpMyAdmin
+click on Database
+create a database hms
+import hmsSQL to the created database hms
+
+//login as admin
+username:admin
+password: sseutm
+
+/login as patient
+username:patient2024@gmail.com
+password:123456
+
+//login as doctor
+username:doctor2024@gmail.com
+password:123456
